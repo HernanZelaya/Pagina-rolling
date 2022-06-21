@@ -1,0 +1,35 @@
+.flex-container{
+    display: flex;
+    justify-content: center;
+    padding: 15px 0px 0px 0px;
+    flex-wrap: wrap;
+}
+
+h1, h3{
+    text-align: center;
+    padding: 35px 0px 0px 0px;
+}
+.flex-item{
+    color: #fff;
+    margin: 5px;
+    height: 120px;
+    width: 120px;
+}
+
+.contenedor{
+padding: 55px 0px 0px 0px;
+}
+
+img{
+    padding: 5px;
+}
+
+
+.contenedor-gamer{
+    padding: 55px 0px 55px 0px;
+    }
+.titulo{
+    color: rgb(20, 20, 169);
+    text-align: center;
+    
+}
